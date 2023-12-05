@@ -1,0 +1,2 @@
+# CogniSerp-A-Quantum-Leap-in-Retro-Gaming-Intelligence
+This project mainly aims to transform  classic Snake game using Reinforcement Learning (RL), enhancing  gaming experience and bridging  gap between retro arcade fun and advanced artificial intelligence. Leveraging the pygame module for graphics and user interface, we are set to create an intelligent agent capable of autonomously playing Snake game
